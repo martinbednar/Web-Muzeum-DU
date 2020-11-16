@@ -31,7 +31,7 @@
             
             <div class="b-img-embed">
                 <embed alt="" style="" data-src="https://d1di2lzuh97fh2.cloudfront.net/files/47/47l/47lmwi.svg?ph=6116168035" id="wnd_ImageBlock_213786_img" type="image/svg+xml" src="https://d1di2lzuh97fh2.cloudfront.net/files/47/47l/47lmwi.svg?ph=6116168035&border=ffffff&outline=ffffff&color=f2f2f2">
-            <script>checkAndChangeSvgColor('wnd_ImageBlock_213786_img');</script></div>
+            </div>
         </div>
 
         <div class="b-img-t"></div>
@@ -50,7 +50,7 @@ Dolní Újezd 76<br>
             
             <div class="b-img-embed">
                 <embed alt="" style="" data-src="https://d1di2lzuh97fh2.cloudfront.net/files/3z/3z2/3z2m9w.svg?ph=6116168035" id="wnd_ImageBlock_916771_img" type="image/svg+xml" src="https://d1di2lzuh97fh2.cloudfront.net/files/3z/3z2/3z2m9w.svg?ph=6116168035&border=ffffff&outline=ffffff&color=f2f2f2">
-            <script>checkAndChangeSvgColor('wnd_ImageBlock_916771_img');</script></div>
+            </div>
         </div>
 
         <div class="b-img-t"></div>
@@ -80,7 +80,7 @@ Dolní Újezd 76<br>
             
             <div class="b-img-embed">
                 <embed alt="" style="visibility: hidden;" data-src="https://d1di2lzuh97fh2.cloudfront.net/files/47/47l/47lmwi.svg?ph=6116168035" id="wnd_ImageBlock_213786_img" type="image/svg+xml" src="https://d1di2lzuh97fh2.cloudfront.net/files/47/47l/47lmwi.svg?ph=6116168035&amp;border=1058b5&amp;outline=102d5c&amp;color=10346b">
-            <script>checkAndChangeSvgColor('wnd_ImageBlock_213786_img');</script></div>
+            </div>
         </div>
 
         <div class="b-img-t"></div>
@@ -97,7 +97,7 @@ Dolní Újezd 76<br>
             
             <div class="b-img-embed">
                 <embed alt="" style="" data-src="https://d1di2lzuh97fh2.cloudfront.net/files/16/167/167z58.svg?ph=6116168035" id="wnd_ImageBlock_171552_img" type="image/svg+xml" src="https://d1di2lzuh97fh2.cloudfront.net/files/16/167/167z58.svg?ph=6116168035&border=ffffff&outline=ffffff&color=f2f2f2">
-            <script>checkAndChangeSvgColor('wnd_ImageBlock_171552_img');</script></div>
+            </div>
         </div>
 
         <div class="b-img-t"></div>
