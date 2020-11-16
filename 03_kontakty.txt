@@ -1,0 +1,146 @@
+<!-- Kontakty ZACATEK -->
+<div class="column-wrapper cw cf">
+	<div class="cw-c cf">
+	
+		<!-- Kontakty-Logo muzea ZACATEK -->
+		<div class="column-content c cf pr pr-0" style="width:20%;">
+			<div class="c-c cf">
+				<div class="b-img b-img-default b b-s cf wnd-orientation-landscape wnd-type-image img-s-n" style="margin-left:0;margin-right:0;" id="wnd_ImageBlock_91292">
+					<div class="b-img-w">
+						<div class="b-img-c cf" style="padding-bottom:100%;text-align:center;">
+							<img src="https://muzeumvesnice-dolniujezd.webnode.cz/_files/200000414-1bb111bb13/450/muzeum.gif" alt="" style="top:0%;left:0%;width:100%;height:100%;position:absolute;">
+							<div class="b-img-embed"></div>
+						</div>
+						<div class="b-img-t"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Kontakty-Logo muzea KONEC -->
+		
+		
+		
+		<!-- Kontakty-Kontakty ZACATEK -->
+		<div class="column-content c cf pr pr-0" style="width:30%;">
+	<div class="c-c cf"><div class="mt mt-2 mt-contact-02 contact-02 img-s-s">
+    <div>
+        <div class="contact-item cf">
+	        <div class="b-img b-img-default b b-s cf wnd-orientation-square wnd-type-icon" style="" id="wnd_ImageBlock_213786">
+    <div class="b-img-w">
+        <div class="b-img-c cf">
+            
+            <div class="b-img-embed">
+                <embed alt="" style="" data-src="https://d1di2lzuh97fh2.cloudfront.net/files/47/47l/47lmwi.svg?ph=6116168035" id="wnd_ImageBlock_213786_img" type="image/svg+xml" src="https://d1di2lzuh97fh2.cloudfront.net/files/47/47l/47lmwi.svg?ph=6116168035&border=ffffff&outline=ffffff&color=f2f2f2">
+            <script>checkAndChangeSvgColor('wnd_ImageBlock_213786_img');</script></div>
+        </div>
+
+        <div class="b-img-t"></div>
+    </div>
+</div>
+	        <div class="b b-text cf">
+	<div class="b-c b-text-c b-s b-s-t60 b-s-b60 cf"><p><font class="wsw-01 wnd-font-size-110" style="color: #F2F2F2;"><strong>Regionální muzeum vesnice Dolní Újezd</strong><br>
+Dolní Újezd 76<br>
+569&nbsp;61 Dolní Újezd</font></p>
+</div>
+</div>
+        </div><div class="contact-item cf">
+	        <div class="b-img b-img-default b b-s cf wnd-orientation-landscape wnd-type-icon" style="" id="wnd_ImageBlock_916771">
+    <div class="b-img-w">
+        <div class="b-img-c cf">
+            
+            <div class="b-img-embed">
+                <embed alt="" style="" data-src="https://d1di2lzuh97fh2.cloudfront.net/files/3z/3z2/3z2m9w.svg?ph=6116168035" id="wnd_ImageBlock_916771_img" type="image/svg+xml" src="https://d1di2lzuh97fh2.cloudfront.net/files/3z/3z2/3z2m9w.svg?ph=6116168035&border=ffffff&outline=ffffff&color=f2f2f2">
+            <script>checkAndChangeSvgColor('wnd_ImageBlock_916771_img');</script></div>
+        </div>
+
+        <div class="b-img-t"></div>
+    </div>
+</div>
+	        <div class="b b-text cf">
+	<div class="b-c b-text-c b-s b-s-t60 b-s-b60 cf"><font class="wsw-01 wnd-font-size-110" style="color: #F2F2F2;"><a href="mailto:muzeum@muzeum-dolniujezd.cz" style="border-style: hidden;">muzeum@muzeum-dolniujezd.cz</a><br><br>
+    <center><a href="https://www.muzeum-dolniujezd.cz/kontakt/" style="border-style: hidden;">Další kontakty</a></center>
+</font>
+</div>
+</div>
+        </div>
+    </div>
+</div></div>
+</div>
+<!-- Kontakty-Kontakty KONEC -->
+		
+		
+		<!-- Kontakty-Otevírací doba ZACATEK -->
+		<div class="column-content c cf pr pr-0" style="width:30%;">
+	<div class="c-c cf"><div class="mt mt-2 mt-contact-02 contact-02 img-s-s">
+    <div style="border-right: 1px solid #F2F2F2;border-left: 1px solid #F2F2F2;margin-right: -10px;padding-right: 10px;margin-left: -10px;padding-left: 10px;">
+        <div class="contact-item cf">
+	        <div class="b-img b-img-default b b-s cf wnd-orientation-square wnd-type-icon" style="" id="wnd_ImageBlock_213786">
+    <div class="b-img-w">
+        <div class="b-img-c cf">
+            
+            <div class="b-img-embed">
+                <embed alt="" style="visibility: hidden;" data-src="https://d1di2lzuh97fh2.cloudfront.net/files/47/47l/47lmwi.svg?ph=6116168035" id="wnd_ImageBlock_213786_img" type="image/svg+xml" src="https://d1di2lzuh97fh2.cloudfront.net/files/47/47l/47lmwi.svg?ph=6116168035&amp;border=1058b5&amp;outline=102d5c&amp;color=10346b">
+            <script>checkAndChangeSvgColor('wnd_ImageBlock_213786_img');</script></div>
+        </div>
+
+        <div class="b-img-t"></div>
+    </div>
+</div>
+	        <div class="b b-text cf">
+	<div class="b-c b-text-c b-s b-s-t60 b-s-b60 cf"><p><font class="wsw-01 wnd-font-size-110" style="color: #F2F2F2;">Muzeum otevřeno v době konání výstav každou neděli</font></p>
+</div>
+</div>
+        </div><div class="contact-item cf">
+	        <div class="b-img b-img-default b b-s cf wnd-orientation-square wnd-type-icon" style="" id="wnd_ImageBlock_171552">
+    <div class="b-img-w">
+        <div class="b-img-c cf">
+            
+            <div class="b-img-embed">
+                <embed alt="" style="" data-src="https://d1di2lzuh97fh2.cloudfront.net/files/16/167/167z58.svg?ph=6116168035" id="wnd_ImageBlock_171552_img" type="image/svg+xml" src="https://d1di2lzuh97fh2.cloudfront.net/files/16/167/167z58.svg?ph=6116168035&border=ffffff&outline=ffffff&color=f2f2f2">
+            <script>checkAndChangeSvgColor('wnd_ImageBlock_171552_img');</script></div>
+        </div>
+
+        <div class="b-img-t"></div>
+    </div>
+</div>
+	        <div class="b b-text cf">
+	<div class="b-c b-text-c b-s b-s-t60 b-s-b60 cf"><p><font class="wsw-01 wnd-font-size-110" style="color: #F2F2F2;">14:00 - 17:00</font></p>
+</div>
+</div>
+        </div>
+		<br><br><br><br><br>
+    </div>
+</div></div>
+</div>
+<!-- Kontakty-Otevírací doba KONEC -->
+
+
+<!-- Kontakty-Odkazy ZACATEK -->
+<div class="column-content c cf pr pr-0" style="width:20%;">
+	<div class="c-c cf"><div class="mt mt-2 mt-contact-02 contact-02 img-s-s">
+    <div>
+        <div class="contact-item cf">
+	        
+	        <div class="b b-text cf">
+	<div class="b-c b-text-c b-s b-s-t60 b-s-b60 cf"><p><font class="wsw-01 wnd-font-size-110" style="color: #F2F2F2;line-height: 2.5;">
+    <center>
+    <a href="https://www.muzeum-dolniujezd.cz/" style="border-style: hidden;">Úvod</a><br>
+    <a href="https://www.muzeum-dolniujezd.cz/informace/" style="border-style: hidden;">Informace</a><br>
+    <a href="https://www.muzeum-dolniujezd.cz/vstupne/" style="border-style: hidden;">Vstupné</a><br>
+    <a href="https://www.muzeum-dolniujezd.cz/fotogalerie/" style="border-style: hidden;">Fotogalerie</a><br>
+    <a href="https://www.muzeum-dolniujezd.cz/ke-stazeni/" style="border-style: hidden;">Ke stažení</a>
+    </center>
+</font></p>
+</div>
+</div>
+        </div>
+    </div>
+</div></div>
+</div>
+<!-- Kontakty-Odkazy KONEC -->
+
+
+
+	</div>
+</div>
+<!-- Kontakty KONEC -->
