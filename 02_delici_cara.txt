@@ -1,5 +1,0 @@
-<!-- Delici cara ZACATEK -->
-<div class="b b-s b-hr-line line-auto">
-	<hr class="line-style line-color" style="border-color:#F2F2F2;">
-</div>
-<!-- Delici cara KONEC -->
